@@ -21,7 +21,7 @@ def test_implementation():
     al = [
         f
         for f in bw2data.Database("biosphere3")
-        if "Aluminium" in f["name"].lower()
+        if "aluminium" in f["name"].lower()
         and f["categories"] == ("natural resource", "in ground")
     ][0]["code"]
 
