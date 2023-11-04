@@ -15,7 +15,7 @@ def test_implementation():
     add_relics()
 
     # check that the new method exists
-    new_method = ("RELICS", "Aluminium", "extraction")
+    new_method = ("RELICS", "metals extraction", "Aluminium")
     assert new_method in bw2data.methods
 
 
