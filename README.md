@@ -1,4 +1,4 @@
-# `relics`
+# `relics`: Resource Extraction Life-cycle IndiCatorS
 
 Import life-cycle assessment indicators to assess the resource extraction
 associated to the life-cycle of a product system.
