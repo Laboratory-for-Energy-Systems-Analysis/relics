@@ -7,8 +7,8 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 
-import bw2io
-from bw2io import ExcelLCIAImporter
+import bw2io, bw2data
+from bw2data import Method
 
 from .biosphere import check_biosphere_database, check_biosphere_version
 from .version import version as __version__
@@ -72,41 +72,31 @@ LIST_METALS = [
     'Zirconium',
 ]
 def add_relics():
-    check_biosphere_database()
-    bw2io_version = check_biosphere_version()
 
-    # impact methods to create
-    categories = {
-        (
-            ("RELICS", "metals extraction", metal),
-            "kg",
-            f"Resource extraction indicator for {metal}",
-        ) for metal in LIST_METALS
-    }
+    for metal in LIST_METALS:
+
+        try:
+            flow = [
+                f for f in bw2data.Database("biosphere3")
+                if metal.lower() in f["name"].lower()
+                and f["categories"] == ("natural resource", "in ground")
+            ][0]
+        except IndexError:
+            print(f"Can't find {metal} in biosphere3. Skiping, but you should check.")
+            continue
+
+        cf = [[(flow["database"], flow["code"]), 1.0],]
+
+        method_key = ("RELICS", "metals extraction", metal)
+
+        my_method = Method(method_key)
+        my_method.validate(cf)
+        metadata = {"unit": f"kg {metal.lower()}", "description": f"Extraction of {metal} from the ground"}
+        my_method.register(**metadata)
+        my_method.write(cf)
+
+        print(f"Added {method_key} to the database.")
+
+    print("Done.")
 
 
-    categories = (
-        categories_bw2io088 if bw2io_version >= (0, 8, 8) else categories_bw2io087
-    )
-
-    if bw2io_version >= (0, 8, 8):
-        filepath = DATA_DIR / "RELICS_CF_088.xlsx"
-    else:
-        filepath = DATA_DIR / "RELICS_CF_087.xlsx"
-
-    for c in categories:
-        print("Adding {}".format(c[0]))
-        category = ExcelLCIAImporter(
-            filepath=filepath, name=c[0], unit=c[1], description=c[2]
-        )
-
-        # apply formatting strategies
-        category.apply_strategies()
-
-        # check that no flow is unlinked
-        assert len(list(category.unlinked)) == 0, "Unlinked flows: {}".format(
-            list(category.unlinked)
-        )
-
-        # write method
-        category.write_methods(overwrite=True, verbose=True)
