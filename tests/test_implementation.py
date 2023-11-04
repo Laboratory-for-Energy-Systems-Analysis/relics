@@ -18,12 +18,11 @@ def test_implementation():
     new_method = ("RELICS", "metals extraction", "Aluminium")
     assert new_method in bw2data.methods
 
-
     al = [
         f
         for f in bw2data.Database("biosphere3")
         if "Aluminium" in f["name"].lower()
-        and f["categories"] == ("natural resource","in ground")
+        and f["categories"] == ("natural resource", "in ground")
     ][0]["code"]
 
     method = bw2data.Method(new_method)
