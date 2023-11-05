@@ -91,10 +91,7 @@ def add_relics():
             print(f"Can't find {metal} in biosphere3. Skiping, but you should check.")
             continue
 
-        cf = [
-            [(f["database"], f["code"]), 1.0]
-            for f in flow
-        ]
+        cf = [[(f["database"], f["code"]), 1.0] for f in flow]
 
         method_key = ("RELICS", "metals extraction", metal)
 
