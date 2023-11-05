@@ -82,13 +82,18 @@ def add_relics():
                 for f in bw2data.Database("biosphere3")
                 if metal.lower() in f["name"].lower()
                 and f["categories"] == ("natural resource", "in ground")
-            ][0]
+            ]
         except IndexError:
             print(f"Can't find {metal} in biosphere3. Skiping, but you should check.")
             continue
 
+        if len(flow) == 0:
+            print(f"Can't find {metal} in biosphere3. Skiping, but you should check.")
+            continue
+
         cf = [
-            [(flow["database"], flow["code"]), 1.0],
+            [(f["database"], f["code"]), 1.0]
+            for f in flow
         ]
 
         method_key = ("RELICS", "metals extraction", metal)
@@ -102,6 +107,6 @@ def add_relics():
         my_method.register(**metadata)
         my_method.write(cf)
 
-        print(f"Added {method_key} to the database.")
+        print(f"Added {method_key} to project {bw2data.projects.current}.")
 
     print("Done.")
