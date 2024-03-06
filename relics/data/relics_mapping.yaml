@@ -148,73 +148,9 @@
       categories: natural resource::in ground
       amount: 0.00052
       unit: kilogram
-    - name: Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0183
-      unit: kilogram
-    - name: Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0081
-      unit: kilogram
-    - name: Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0027
-      unit: kilogram
-    - name: Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0022
-      unit: kilogram
-    - name: Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0036
-      unit: kilogram
-    - name: Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0039
-      unit: kilogram
-    - name: Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0036
-      unit: kilogram
-    - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.032
-      unit: kilogram
-    - name: Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00052
-      unit: kilogram
-    - name: Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0076
-      unit: kilogram
-    - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00052
-      unit: kilogram
-    - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.032
-      unit: kilogram
-    - name: Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.032
-      unit: kilogram
-    - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00052
-      unit: kilogram
-    - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.032
-      unit: kilogram
-    - name: Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00052
-      unit: kilogram
 - name: Dolomite
   environmental flow:
-    - name: Dolomyte
+    - name: Dolomite
       categories: natural resource::in ground
       amount: 1.0
       unit: kilogram
@@ -325,30 +261,6 @@
       amount: 0.0000097
       unit: kilogram
     - name: Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore
-      categories: natural resource::in ground
-      amount: 0.00000097
-      unit: kilogram
-    - name: Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000068
-      unit: kilogram
-    - name: Silver, Ag 1.5E-5%, Au 5.4E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000054
-      unit: kilogram
-    - name: Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000021
-      unit: kilogram
-    - name: Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000011
-      unit: kilogram
-    - name: Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000013
-      unit: kilogram
-    - name: Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore
       categories: natural resource::in ground
       amount: 0.00000097
       unit: kilogram
@@ -494,34 +406,6 @@
       categories: natural resource::in ground
       amount: 0.00041
       unit: kilogram
-    - name: Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
-    - name: Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
-    - name: Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore
-      categories: natural resource::in ground
-      amount: 0.00041
-      unit: kilogram
-    - name: Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
-    - name: Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
-    - name: Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
-    - name: Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore
-      categories: natural resource::in ground
-      amount: 0.000082
-      unit: kilogram
 - name: Neodymium
   environmental flow:
     - name: Neodymium
@@ -550,18 +434,6 @@
       categories: natural resource::in ground
       amount: 0.025
       unit: kilogram
-    - name: Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore
-      categories: natural resource::in ground
-      amount: 0.0076
-      unit: kilogram
-    - name: Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.023
-      unit: kilogram
-    - name: Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00037
-      unit: kilogram
     - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
       categories: natural resource::in ground
       amount: 0.023
@@ -573,30 +445,6 @@
     - name: Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore
       categories: natural resource::in ground
       amount: 0.0076
-      unit: kilogram
-    - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00037
-      unit: kilogram
-    - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.023
-      unit: kilogram
-    - name: Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.023
-      unit: kilogram
-    - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00037
-      unit: kilogram
-    - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.023
-      unit: kilogram
-    - name: Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00037
       unit: kilogram
 - name: Niobium
   environmental flow:
@@ -614,22 +462,6 @@
       categories: natural resource::in ground
       amount: 0.000000016
       unit: kilogram
-    - name: Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000073
-      unit: kilogram
-    - name: Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.000002
-      unit: kilogram
-    - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000073
-      unit: kilogram
-    - name: Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.000002
-      unit: kilogram
     - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
       categories: natural resource::in ground
       amount: 0.000002
@@ -637,22 +469,6 @@
     - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
       categories: natural resource::in ground
       amount: 0.0000073
-      unit: kilogram
-    - name: Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000073
-      unit: kilogram
-    - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.000002
-      unit: kilogram
-    - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000073
-      unit: kilogram
-    - name: Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.000002
       unit: kilogram
 - name: Phosphorus
   environmental flow:
@@ -674,30 +490,6 @@
       categories: natural resource::in ground
       amount: 1.0
       unit: kilogram
-    - name: Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000025
-      unit: kilogram
-    - name: Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.0000048
-      unit: kilogram
-    - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000025
-      unit: kilogram
-    - name: Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.0000048
-      unit: kilogram
-    - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.0000048
-      unit: kilogram
-    - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000025
-      unit: kilogram
     - name: Platinum, Pt 4.7E-7%, in mixed ore
       categories: natural resource::in ground
       amount: 0.0000000047
@@ -707,14 +499,6 @@
       amount: 0.0000025
       unit: kilogram
     - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.0000048
-      unit: kilogram
-    - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000025
-      unit: kilogram
-    - name: Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore
       categories: natural resource::in ground
       amount: 0.0000048
       unit: kilogram
@@ -753,38 +537,6 @@
     - name: Rhodium, Rh 1.6E-7%, in mixed ore
       categories: natural resource::in ground
       amount: 0.0000000016
-      unit: kilogram
-    - name: Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000002
-      unit: kilogram
-    - name: Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00000024
-      unit: kilogram
-    - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000002
-      unit: kilogram
-    - name: Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00000024
-      unit: kilogram
-    - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00000024
-      unit: kilogram
-    - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000002
-      unit: kilogram
-    - name: Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
-      categories: natural resource::in ground
-      amount: 0.0000002
-      unit: kilogram
-    - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
-      categories: natural resource::in ground
-      amount: 0.00000024
       unit: kilogram
     - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
       categories: natural resource::in ground
@@ -887,30 +639,6 @@
     - name: Silver, Ag 9.7E-4%, in mixed ore
       categories: natural resource::in ground
       amount: 0.0000097
-      unit: kilogram
-    - name: Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore
-      categories: natural resource::in ground
-      amount: 0.000042
-      unit: kilogram
-    - name: Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore
-      categories: natural resource::in ground
-      amount: 0.00000046
-      unit: kilogram
-    - name: Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000021
-      unit: kilogram
-    - name: Gold, Au 5.4E-4%, Ag 1.5E-5%, in ore
-      categories: natural resource::in ground
-      amount: 0.00000015
-      unit: kilogram
-    - name: Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore
-      categories: natural resource::in ground
-      amount: 0.0000015
-      unit: kilogram
-    - name: Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore
-      categories: natural resource::in ground
-      amount: 0.00000076
       unit: kilogram
 - name: Sodium
   environmental flow:
