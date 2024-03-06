@@ -83,10 +83,12 @@ or
 
 `conda install -c romainsacchi relics`
 
+
 ## Contributors
 
 * [Alvaro Hahn](https://github.com/alvarojhahn)
 * [Romain Sacchi](https://github.com/romainsacchi)
+
 
 ## Contact
 
