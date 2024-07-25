@@ -32,7 +32,7 @@ def add_relics(yaml_mappings=RELICS_MAPPING):
             flow_found = [
                 f
                 for f in bw2data.Database(biosphere_name)
-                if flow_mapping["name"].lower() == f["name"].lower()
+                if f["name"].lower().startswith(flow_mapping["name"].lower())
                 and f["categories"] == tuple(flow_mapping["categories"].split("::"))
             ]
 
