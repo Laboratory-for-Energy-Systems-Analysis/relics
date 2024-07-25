@@ -1,0 +1,782 @@
+- name: Aluminium
+  environmental flow:
+    - name: Aluminium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Aluminium, 24% in bauxite, 11% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Antimony
+  environmental flow:
+    - name: Antimony
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Stibnite
+      categories: natural resource::in ground
+      amount: 0.716836171
+      unit: kilogram
+- name: Arsenic
+  environmental flow:
+    - name: Arsenic
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Barium
+  environmental flow:
+    - name: Barium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Beryllium
+  environmental flow:
+    - name: Beryllium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Boron
+  environmental flow:
+    - name: Boron
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Borax
+      categories: natural resource::in ground
+      amount: 0.113391195
+      unit: kilogram
+- name: Cadmium
+  environmental flow:
+    - name: Cadmium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Cadmium, 0.30% in sulfide, Cd 0.18%, Pb, Zn, Ag, In
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Cerium
+  environmental flow:
+    - name: Cerium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Cerium, 24% in bastnasite, 2.4% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Chromium
+  environmental flow:
+    - name: Chromium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Chromium, 25.5% in chromite, 11.6% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Cobalt
+  environmental flow:
+    - name: Cobalt
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Cobalt, Co 5.0E-2%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Copper
+  environmental flow:
+    - name: Copper
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 0.52% in sulfide, Cu 0.27% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 0.59% in sulfide, Cu 0.22% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 0.97% in sulfide, Cu 0.36% and Mo 4.1E-2% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 0.99% in sulfide, Cu 0.36% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 1.13% in sulfide, Cu 0.76% and Ni 0.76% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 1.18% in sulfide, Cu 0.39% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 1.25% in sulfide, Cu 0.24% and Zn 0,1% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 1.42% in sulfide, Cu 0.81% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, 2.19% in sulfide, Cu 1.83% and Mo 8.2E-3% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, Cu 0.2%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, Cu 0.38%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Copper, Cu 6.8E-1%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Dolomite
+  environmental flow:
+    - name: Dolomite
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Dysprosium
+  environmental flow:
+    - name: Dysprosium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Erbium
+  environmental flow:
+    - name: Erbium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Europium
+  environmental flow:
+    - name: Europium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Europium, 0.06% in bastnasite, 0.006% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Gadolinium
+  environmental flow:
+    - name: Gadolinium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gadolinium, 0.15% in bastnasite, 0.015% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Gallium
+  environmental flow:
+    - name: Gallium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gallium, 0.014% in bauxite
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Germanium
+  environmental flow:
+    - name: Germanium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Gold
+  environmental flow:
+    - name: Gold
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 1.0E-7%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 1.1E-4%, Ag 4.2E-3%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 1.3E-4%, Ag 4.6E-5%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 1.4E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 1.8E-4%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 2.1E-4%, Ag 2.1E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 4.3E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 4.9E-5%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 5.4E-4%, Ag 1.5E-5%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 6.7E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 6.8E-4%, Ag 1.5E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 7.1E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 9.7E-4%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Gold, Au 9.7E-5%, Ag 7.6E-5%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Graphite
+  environmental flow:
+    - name: Graphite
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Hafnium
+  environmental flow:
+    - name: Hafnium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Holmium
+  environmental flow:
+    - name: Holmium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Indium
+  environmental flow:
+    - name: Indium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Indium, 0.005% in sulfide, In 0.003%, Pb, Zn, Ag, Cd
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Iridium
+  environmental flow:
+    - name: Iridium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Iron
+  environmental flow:
+    - name: Iron
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Iron, 46% in ore, 25% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Iron, 72% in magnetite, 14% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Lanthanum
+  environmental flow:
+    - name: Lanthanum
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Lanthanum, 7.2% in bastnasite, 0.72% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Lead
+  environmental flow:
+    - name: Lead
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Lead, 5.0% in sulfide, Pb 3.0%, Zn, Ag, Cd, In
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Lead, Pb 0.014%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Lead, Pb 3.6E-1%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Lithium
+  environmental flow:
+    - name: Lithium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Lithium, 0.15% in brine
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Magnesium
+  environmental flow:
+    - name: Magnesium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Manganese
+  environmental flow:
+    - name: Manganese
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Manganese, 35.7% in sedimentary deposit, 14.2% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Mercury
+  environmental flow:
+    - name: Mercury
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Molybdenum
+  environmental flow:
+    - name: Molybdenum
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.010% in sulfide, Mo 8.2E-3% and Cu 1.83% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.014% in sulfide, Mo 8.2E-3% and Cu 0.81% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.016% in sulfide, Mo 8.2E-3% and Cu 0.27% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.22% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.022% in sulfide, Mo 8.2E-3% and Cu 0.36% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.025% in sulfide, Mo 8.2E-3% and Cu 0.39% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Molybdenum, 0.11% in sulfide, Mo 4.1E-2% and Cu 0.36% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Neodymium
+  environmental flow:
+    - name: Neodymium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Neodymium, 4% in bastnasite, 0.4% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Nickel
+  environmental flow:
+    - name: Nickel
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Nickel, 1.98% in silicates, 1.04% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Nickel, Ni 2.5E+0%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Ni, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Ni, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Nickel, 1.13% in sulfide, Ni 0.76% and Cu 0.76% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Niobium
+  environmental flow:
+    - name: Niobium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Palladium
+  environmental flow:
+    - name: Palladium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Palladium, Pd 1.6E-6%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Pd, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Pd, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Phosphorus
+  environmental flow:
+    - name: Phosphorus
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Phosphorus, 18% in apatite, 12% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Phosphorus, 18% in apatite, 4% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Platinum
+  environmental flow:
+    - name: Platinum
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Platinum, Pt 4.7E-7%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Pt, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Pt, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Potassium
+  environmental flow:
+    - name: Potassium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Praseodymium
+  environmental flow:
+    - name: Praseodymium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Praseodymium, 0.42% in bastnasite, 0.042% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Rhenium
+  environmental flow:
+    - name: Rhenium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Rhenium, in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Rhodium
+  environmental flow:
+    - name: Rhodium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Rhodium, Rh 1.6E-7%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Rh, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Rh, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Rubidium
+  environmental flow:
+    - name: Rubidium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Ruthenium
+  environmental flow:
+    - name: Ruthenium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Samarium
+  environmental flow:
+    - name: Samarium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Samarium, 0.3% in bastnasite, 0.03% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Scandium
+  environmental flow:
+    - name: Scandium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Selenium
+  environmental flow:
+    - name: Selenium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Silicon
+  environmental flow:
+    - name: Silicon
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Silver
+  environmental flow:
+    - name: Silver
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, 0.007% in sulfide, Ag 0.004%, Pb, Zn, Cd, In
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, 0.01% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, 3.2ppm in sulfide, Ag 1.2ppm, Cu and Te, in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 1.5E-4%, Au 6.8E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 1.5E-5%, Au 5.4E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 1.8E-6%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 2.1E-4%, Au 2.1E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 4.2E-3%, Au 1.1E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 4.6E-5%, Au 1.3E-4%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 5.4E-3%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 7.6E-5%, Au 9.7E-5%, in ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Silver, Ag 9.7E-4%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Sodium
+  environmental flow:
+    - name: Sodium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Sodium chloride
+      categories: natural resource::in ground
+      amount: 0.3933
+      unit: kilogram
+    - name: Sodium nitrate
+      categories: natural resource::in ground
+      amount: 0.27
+      unit: kilogram
+    - name: Sodium sulphate, various forms
+      categories: natural resource::in ground
+      amount: 0.324
+      unit: kilogram
+- name: Spodumene
+  environmental flow:
+    - name: Spodumene
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Strontium
+  environmental flow:
+    - name: Strontium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Sulfur
+  environmental flow:
+    - name: Sulfur
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Sodium sulphate, various forms
+      categories: natural resource::in ground
+      amount: 0.225
+      unit: kilogram
+- name: Tantalum
+  environmental flow:
+    - name: Tantalum
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Tantalum, 81.9% in tantalite, 1.6E-4% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Tellurium
+  environmental flow:
+    - name: Tellurium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Tellurium, 0.5ppm in sulfide, Te 0.2ppm, Cu and Ag, in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Terbium
+  environmental flow:
+    - name: Terbium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Thulium
+  environmental flow:
+    - name: Thulium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Tin
+  environmental flow:
+    - name: Tin
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Tin, 79% in cassiterite, 0.1% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Titanium
+  environmental flow:
+    - name: Titanium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Tungsten
+  environmental flow:
+    - name: Tungsten
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Vanadium
+  environmental flow:
+    - name: Vanadium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Ytterbium
+  environmental flow:
+    - name: Ytterbium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Yttrium
+  environmental flow:
+    - name: Yttrium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Zinc
+  environmental flow:
+    - name: Zinc
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Zinc, 9.0% in sulfide, Zn 5.3%, Pb, Ag, Cd, In
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Zinc, Zn 0.63%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Zinc, Zn 3.1%, in mixed ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+- name: Zirconium
+  environmental flow:
+    - name: Zirconium
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
+    - name: Zirconium, 50% in zircon, 0.39% in crude ore
+      categories: natural resource::in ground
+      amount: 1.0
+      unit: kilogram
