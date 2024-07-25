@@ -1,6 +1,4 @@
-__all__ = (
-    "add_relics",
-)
+__all__ = ("add_relics",)
 
 
 from .utils import add_relics
