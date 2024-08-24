@@ -1,4 +1,4 @@
 include *.md
 include *.txt
 include LICENSE
-include relics/data/*
+include relics/data/*.yaml
