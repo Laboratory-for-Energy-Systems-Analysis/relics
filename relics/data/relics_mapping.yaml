@@ -367,7 +367,7 @@
       categories: natural resource::in ground
       amount: 1.0
       unit: kilogram
-    - name: Sodium sulphate, various forms
+    - name: Sodium sulfate
       categories: natural resource::in ground
       amount: 0.225
       unit: kilogram
