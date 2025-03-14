@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 v_temp = {}
 with open("relics/version.py") as fp:
@@ -9,9 +9,7 @@ version = ".".join((str(x) for x in v_temp["version"]))
 setup(
     name="relics",
     version=version,
-    packages=[
-        "relics",
-    ],
+    packages=find_packages(include=["relics", "relics.*"]),
     author="Romain Sacchi",
     author_email="romain.sacchi@psi.ch",
     license="BSD 3-clause",
