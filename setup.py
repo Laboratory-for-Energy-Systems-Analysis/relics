@@ -15,7 +15,7 @@ setup(
     author="Romain Sacchi",
     author_email="romain.sacchi@psi.ch",
     license="BSD 3-clause",
-    package_data={"relics": ["data/*.xlsx", "data/*.json"]},
+    package_data={"relics": ["data/*.xlsx", "data/*.json", "data/*.yaml"]},
     install_requires=["bw2io", "bw2data", "requests", "pyyaml", "numpy<2.0.0"],
     url="https://github.com/romainsacchi/relics",
     long_description_content_type="text/markdown",
