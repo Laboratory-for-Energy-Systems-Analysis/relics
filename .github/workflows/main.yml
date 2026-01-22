@@ -43,14 +43,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install python version
-        uses: gabrielfalcao/pyenv-action@v18
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          default: 3.10.6
-          command: pip install -U pip  # upgrade pip after installing python
+          python-version: "3.10"
 
       - name: create environment
-        run: pyenv local 3.10.6 && python -mvenv .venv390
+        run: python -m venv .venv390
 
       - name: Install dependencies
         run: |
@@ -138,4 +137,3 @@ jobs:
         with:
           password: ${{ secrets.PYPI_API_TOKEN }}
           skip-existing: true
-
